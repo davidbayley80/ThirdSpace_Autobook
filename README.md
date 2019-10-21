@@ -3,8 +3,8 @@ A Python script that utilises Seleium to automatically navigate through the Thir
 
 To use, create file named 'credentails.py' at root directory. 
 Contain within the file:
-username = "<email address>"
-password = "<password>"
+username = "(email address)"
+password = "(password)"
 (*where 'email address' and 'password' are valid Third Space credentails)
   
  Within app_V2.py the following XPATH defines which exercicse class will be booked:
